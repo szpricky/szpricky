@@ -1,5 +1,6 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![Website](https://img.shields.io/badge/szpr.dev-217062?style=for-the-badge&logo=devdotto&logoColor=white)](http://szpr.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricky@szpr.dev?subject=%20New%20message%20sent%20on%20Github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szpatrikrichard)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/szpricky)
