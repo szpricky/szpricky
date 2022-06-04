@@ -43,7 +43,7 @@ const Contact = () => {
               <EmailIcon className="contact__option-icon" />
               <h4>Email</h4>
               <h5>richard@szpr.dev</h5>
-              <a href="mailto:richard@szpr.dev">Send an email</a>
+              <a href="mailto:richard@szpr.dev">Send me an email</a>
             </article>
 
             <article className="contact__option">
@@ -51,7 +51,7 @@ const Contact = () => {
               <h4>WhatsApp</h4>
               <h5></h5>
               <a href="https://wa.link/eo5r84" target="_blank">
-                Send a message
+                Send me a message
               </a>
             </article>
 
@@ -60,7 +60,7 @@ const Contact = () => {
               <h4>Telegram</h4>
               <h5>szpricky</h5>
               <a href="https://t.me/szpricky" target="_blank">
-                Send a message
+                Send me a message
               </a>
             </article>
           </div>
