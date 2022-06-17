@@ -137,6 +137,9 @@ header {
     
     .role__positions {
       display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
     }
   }
 
