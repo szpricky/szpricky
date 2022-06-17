@@ -49,10 +49,23 @@ const About = () => {
             </div>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consequuntur fuga veniam inventore est architecto eligendi eaque
-              mollitia illum non. Aliquid minima quidem non! Rerum qui dicta
-              praesentium nemo ut aspernatur!
+              Enthusiastic and engaged in the field of computer science and technology.
+            </p>
+
+            <p>
+              I started out 10 years ago by coding simple dynamic web pages. Since then I have explored multiple other aspects of programming, such as designing and creating apps for web and mobile platforms, building full-stack software, and embedded systems programming.
+            </p>
+              
+            <p>
+              In 2020, in the midst of a pandemic, I started my freelancer journey. While working closely with my clients all over the globe, I gained hands-on experience and improved my technical, teamwork and communication skills. I strive to deliver my services in a professional manner, reliably, and well on schedule to my clients.
+            </p>
+              
+            <p>
+              During the same year, I entered university to study and obtain a degree in software development. As of the present, I have achieved excellent results in my academic progress and I'm entering year 3 of my studies.
+            </p>
+
+            <p>
+              In the future, I'm aspired to learn more about blockchain technologies and artificial intelligence. Following my studies, I wish to start off my career as a developer and eventually get a master's degree.
             </p>
 
             <a href="#contact" className="btn btn-primary">
