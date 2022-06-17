@@ -134,6 +134,10 @@ header {
     min-height: 100%;
     position: relative;
     text-align: center;
+    
+    .role__positions {
+      display: flex;
+    }
   }
 
   .cta {
