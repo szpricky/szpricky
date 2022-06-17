@@ -40,18 +40,6 @@ body {
   color: $color-white;
   font-family: "Open Sans", "Segoe UI", Tahoma, sans-serif;
   line-height: 1.7;
-
-  &::after {
-    content: "";
-    background-image: url(../src/assets/images/bg-texture.svg);
-    background-size: 2rem;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    z-index: -2;
-  }
 }
 
 /* ============= GENERAL STYLES ============= */
