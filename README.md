@@ -1,7 +1,7 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="36">
 
 [![Website](https://img.shields.io/badge/Website-010C2B?style=for-the-badge)](http://szpr.dev)
-[![Protonmail](https://img.shields.io/badge/Protonmail-010C2B?style=for-the-badge&logo=protonmail&logoColor=58588C)](mailto:github@szpr.dev?subject=%20New%20message%20sent%20on%20Github)
+[![Email](https://img.shields.io/badge/Email-010C2B?style=for-the-badge&logo=protonmail&logoColor=58588C)](mailto:github@szpr.dev?subject=%20New%20message%20sent%20on%20Github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-010C2B?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/szpatrikrichard)
 [![Telegram](https://img.shields.io/badge/Telegram-010C2B?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/szpricky)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-010C2B?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.link/eo5r84)
