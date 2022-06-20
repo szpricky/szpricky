@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Richárd+Szilágyi.;I+write+software+and+create+websites.)
 
+I'm a full-stack sofware engineer and web developer. I spend most of my time coding projects and pushing them to my GitHub repositories. Check out more of [my work](https://github.com/szpricky?tab=repositories).
+
 📫 Reach out to me!
 
 [![Website](https://img.shields.io/badge/szpr.dev-04123B?style=flat-square)](http://szpr.dev)
