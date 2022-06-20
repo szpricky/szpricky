@@ -1,4 +1,4 @@
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 
 [![Website](https://img.shields.io/badge/szpr.dev-217062?style=for-the-badge&logo=devdotto&logoColor=white)](http://szpr.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricky@szpr.dev?subject=%20New%20message%20sent%20on%20Github)
@@ -8,7 +8,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Richárd+Szilágyi.;I+write+software+and+create+websites.)
 
-### 🤳 About Me
+### 💁 About Me
 
 - 👨‍💻 Programmer and problem solver since birth, pursuing a career in IT.
 - 👨‍🎓 Studying software development at **Munster Technological University**.
