@@ -1,4 +1,4 @@
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="36">
 
 [![Website](https://img.shields.io/badge/Website-010C2B?style=for-the-badge)](http://szpr.dev)
 [![Protonmail](https://img.shields.io/badge/Protonmail-010C2B?style=for-the-badge&logo=protonmail&logoColor=58588C)](mailto:github@szpr.dev?subject=%20New%20message%20sent%20on%20Github)
