@@ -19,7 +19,7 @@
 - 🇭🇺 From Budapest, Hungary.
 - 🇮🇪 Living in Ireland.
 
-### ⚙️ What I'm Working With
+### 🛠️ What I'm Working With
 
 #### Languages
 
