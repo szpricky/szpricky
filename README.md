@@ -8,8 +8,8 @@ I'm a full-stack sofware engineer and web developer. I spend most of my time cod
 
 [![Website](https://img.shields.io/badge/szpr.dev-04123B?style=flat-square)](http://szpr.dev)
 [![Email](https://img.shields.io/badge/github@szpr.dev-04123B?style=flat-square&logo=protonmail&logoColor=58588C)](mailto:github@szpr.dev?subject=%20New%20message%20sent%20on%20Github)
-[![LinkedIn](https://img.shields.io/badge/szpatrikrichard-04123B?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/szpatrikrichard)
-[![Telegram](https://img.shields.io/badge/szpricky-04123B?style=flat-square&logo=telegram&logoColor=2CA5E0)](https://t.me/szpricky)
+[![LinkedIn](https://img.shields.io/badge/szprio-04123B?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/szprio)
+[![Telegram](https://img.shields.io/badge/szprio-04123B?style=flat-square&logo=telegram&logoColor=2CA5E0)](https://t.me/szprio)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-04123B?style=flat-square&logo=whatsapp&logoColor=25D366)](https://wa.link/eo5r84)
 
 - 👨‍💻 Programmer and problem solver pursuing a career in IT.
@@ -88,9 +88,9 @@ I'm a full-stack sofware engineer and web developer. I spend most of my time cod
 
 ## 📊 My Stats
 
-![Visits Badge](https://badges.pufler.dev/visits/szpricky/szpricky?style=flat-square&color=010C2B&labelColor=04123B)
-![Repos Badge](https://badges.pufler.dev/repos/szpricky?style=flat-square&color=010C2B&labelColor=04123B)
-![Years Badge](https://badges.pufler.dev/years/szpricky?style=flat-square&color=010C2B&labelColor=04123B)
+![Visits Badge](https://badges.pufler.dev/visits/szprio/szpricky?style=flat-square&color=010C2B&labelColor=04123B)
+![Repos Badge](https://badges.pufler.dev/repos/szprio?style=flat-square&color=010C2B&labelColor=04123B)
+![Years Badge](https://badges.pufler.dev/years/szprio?style=flat-square&color=010C2B&labelColor=04123B)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=szpricky&show_icons=true&theme=radical)
 
